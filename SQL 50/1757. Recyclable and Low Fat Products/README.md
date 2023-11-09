@@ -1,4 +1,4 @@
-<h2><a href="[[https://leetcode.com/problems/merge-strings-alternately/]](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)">1157.Recyclable and Low Fat Products</h2>
+<h2><a href="https://leetcode.com/problems/recyclable-and-low-fat-products/">1157.Recyclable and Low Fat Products</h2>
 
 <pre>
 Table: Products
