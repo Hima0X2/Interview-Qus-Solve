@@ -2,26 +2,54 @@
 </h2>
 
 <pre>
-Table: Tweets
+Table: Employee
 
-+----------------+---------+
-| Column Name    | Type    |
-+----------------+---------+
-| tweet_id       | int     |
-| content        | varchar |
-+----------------+---------+
-tweet_id is the primary key (column with unique values) for this table.
-This table contains all the tweets in a social media app.
++-------------+------+
+| Column Name | Type |
++-------------+------+
+| id          | int  |
+| salary      | int  |
++-------------+------+
+id is the primary key (column with unique values) for this table.
+Each row of this table contains information about the salary of an employee.
  
 
-Write a solution to find the IDs of the invalid tweets. The tweet is invalid if the number of characters used in the content of the tweet is strictly greater than 15.
-
-Return the result table in any order.
+Write a solution to find the second highest salary from the Employee table. If there is no second highest salary, return null (return None in Pandas).
 
 The result format is in the following example.
 
  
 
-Tweet 1 has length = 14. It is a valid tweet.
-Tweet 2 has length = 32. It is an invalid tweet.
+Example 1:
+
+Input: 
+Employee table:
++----+--------+
+| id | salary |
++----+--------+
+| 1  | 100    |
+| 2  | 200    |
+| 3  | 300    |
++----+--------+
+Output: 
++---------------------+
+| SecondHighestSalary |
++---------------------+
+| 200                 |
++---------------------+
+Example 2:
+
+Input: 
+Employee table:
++----+--------+
+| id | salary |
++----+--------+
+| 1  | 100    |
++----+--------+
+Output: 
++---------------------+
+| SecondHighestSalary |
++---------------------+
+| null                |
++---------------------+
 </pre>
