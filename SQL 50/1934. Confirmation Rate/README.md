@@ -1,6 +1,4 @@
-
-      <h2><a href="https://leetcode.com/problems/confirmation-rate/">1934. Confirmation Rate
-</h2>
+<h2><a href="https://leetcode.com/problems/confirmation-rate/">1934. Confirmation Rate</h2>
 
 <pre>
 Table: Signups
