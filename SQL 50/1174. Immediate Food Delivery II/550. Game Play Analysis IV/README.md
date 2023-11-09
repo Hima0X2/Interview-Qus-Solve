@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/recyclable-and-low-fat-products/">550. Game Play Analysis IV
+<h2><a href="https://leetcode.com/problems/game-play-analysis-iv/">550. Game Play Analysis IV
 </h2>
 
 <pre>
