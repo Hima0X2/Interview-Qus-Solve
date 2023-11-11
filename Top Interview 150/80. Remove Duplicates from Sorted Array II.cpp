@@ -7,13 +7,10 @@ public:
      for(int i=0;i<nums.size();i++){
          mp[nums[i]]++;
          if(mp[nums[i]]<=2){
+             nums[c]=nums[i];
              c++;
-         }
-         else{
-             nums[i]='-';
-         }
+         }  
      }
-     sort(nums.begin(),nums.end());
      return c;
     }
 };
