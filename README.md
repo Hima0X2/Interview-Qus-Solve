@@ -23,7 +23,6 @@ Here is the problem and my solution of leetcode problem
 - [Merge Sorted Array. | LeetCode](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/88.%20Merge%20Sorted%20Array.cpp).
 
 <br>
-Feel free to explore the categories and dive into the specific problems to learn and practice your coding skills. If you have any questions or suggestions, please don't hesitate to reach out.
-
+If you have any questions or suggestions, please don't hesitate to reach out.
 Happy coding!
 
