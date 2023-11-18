@@ -1,17 +1,8 @@
 # Interview_Qus_Solve
 # LeetCode Solutions
 # Top Interview Questions and Solutions
-Welcome to my LeetCode solutions repository! I have organized my LeetCode solutions into different categories, making it easy for anyone to navigate and learn from them.
-
-## Categories
-- [Array](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/array)
-<!-- 
-- [String](#string)
-- [Two Pointers](#two-pointers)
-- [Linked List](#linked-list)
--->
-<details>
-<summary><b>Array</b></summary>
+Welcome to my LeetCode solutions repository! 
+Here is the problem and my solution of leetcode problem
 
 - [Merge Sorted Array | LeetCode](https://leetcode.com/problems/merge-sorted-array/submissions/1094397839/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/Merge-Sorted-Array.cpp).
 - [Remove Element | LeetCode](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/Remove-Element.cpp)
