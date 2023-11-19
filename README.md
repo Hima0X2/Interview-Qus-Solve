@@ -23,7 +23,9 @@ Here is the problem and my solution of leetcode problem
 - [Merge Sorted Array. | LeetCode](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/88.%20Merge%20Sorted%20Array.cpp).
 - [Rotate Array. | LeetCode](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/189.%20Rotate%20Array.cpp).
 - [Integer to Roman. | LeetCode](https://leetcode.com/problems/integer-to-roman/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/12.%20Integer%20to%20Roman.cpp).
-
+- [Sqrt(x). | LeetCode](https://leetcode.com/problems/sqrtx/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/69.%20Sqrt(x).cpp).
+- [Pow(x, n). | LeetCode](https://leetcode.com/problems/powx-n/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/50.%20Pow(x%2C%20n).cp).
+- 
 <br>
 If you have any questions or suggestions, please don't hesitate to reach out.
 Happy coding!
