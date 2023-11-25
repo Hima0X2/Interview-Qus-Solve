@@ -25,7 +25,9 @@ Here is the problem and my solution of leetcode problem
 - [Integer to Roman. | LeetCode](https://leetcode.com/problems/integer-to-roman/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/12.%20Integer%20to%20Roman.cpp).
 - [Sqrt(x). | LeetCode](https://leetcode.com/problems/sqrtx/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/69.%20Sqrt(x).cpp).
 - [Pow(x, n). | LeetCode](https://leetcode.com/problems/powx-n/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/50.%20Pow(x%2C%20n).cp).
-- 
+- [Number of 1 Bits | LeetCode](https://leetcode.com/problems/number-of-1-bits/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/191.%20Number%20of%201%20Bits.cpp).
+- [Single Number II | LeetCode](https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/137.%20Single%20Number%20II.cpp).
+- [Single Number | LeetCode](https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/136.%20Single%20Number.cpp).
 <br>
 If you have any questions or suggestions, please don't hesitate to reach out.
 Happy coding!
