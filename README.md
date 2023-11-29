@@ -31,6 +31,7 @@ Here is the problem and my solution of leetcode problem
 - [Plus One | LeetCode](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/66.%20Plus%20One.cpp).
 - [Factorial Trailing Zeroes | LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/172.%20Factorial%20Trailing%20Zeroes.cpp).
 -  [Search Insert Position | LeetCode](https://leetcode.com/problems/search-insert-position/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/35.%20Search%20Insert%20Position.cpp).
+-  [Isomorphic Strings | LeetCode](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/205.%20Isomorphic%20Strings.cpp).
 <br>
 If you have any questions or suggestions, please don't hesitate to reach out.
 Happy coding!
