@@ -28,6 +28,8 @@ Here is the problem and my solution of leetcode problem
 - [Number of 1 Bits | LeetCode](https://leetcode.com/problems/number-of-1-bits/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/191.%20Number%20of%201%20Bits.cpp).
 - [Single Number II | LeetCode](https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/137.%20Single%20Number%20II.cpp).
 - [Single Number | LeetCode](https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/136.%20Single%20Number.cpp).
+- [Plus One | LeetCode](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/66.%20Plus%20One.cpp).
+- [Factorial Trailing Zeroes | LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/172.%20Factorial%20Trailing%20Zeroes.cpp).
 <br>
 If you have any questions or suggestions, please don't hesitate to reach out.
 Happy coding!
