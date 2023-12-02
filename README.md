@@ -61,6 +61,11 @@ Here is the problem and my solution of leetcode problem
 - [Group Anagrams | LeetCode](https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/49.%20Group%20Anagrams.cpp).
 - [Contains Duplicate II | LeetCode](https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/219.%20Contains%20Duplicate%20II.cpp).
 - [Longest Consecutive Sequence | LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/128.%20Longest%20Consecutive%20Sequence.cpp).
+  
+- [Summary Ranges | LeetCode](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/228.%20Summary%20Ranges.cpp).
+- [Merge Intervals | LeetCode](https://leetcode.com/problems/merge-intervals/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/56.%20Merge%20Intervals.cpp).
+- [Insert Interval | LeetCode](https://leetcode.com/problems/insert-interval/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/57.%20Insert%20Interval.cpp).
+- [Minimum Number of Arrows to Burst Balloons | LeetCode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp).
 
 <br>
 <h3 align="left">Connect with me:</h3>
