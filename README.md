@@ -53,7 +53,7 @@ Here is the problem and my solution of leetcode problem
 - [Minimum Window Substring | LeetCode](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/76.%20Minimum%20Window%20Substring.cpp) - [My Solution](https://leetcode.com/problems/minimum-window-substring/description/?envType=study-plan-v2&envId=top-interview-150).
 
 <br>
-✉️ &nbsp;Get in touch with me via email at [samayrajahan02@gmail.com](mailto:samayrajahan02@gmail.com).
+✉️ &nbsp;Get in touch with me via email at [samayrajahan02@gmail.com](https://www.github.com/hima).
 If you have any questions or suggestions, please don't hesitate to reach out.
 Happy coding!
 
