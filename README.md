@@ -57,6 +57,11 @@ Here is the problem and my solution of leetcode problem
 -  [Set Matrix Zeroes | LeetCode](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/73.%20Set%20Matrix%20Zeroes.cpp).
 - [Game of Life | LeetCode](https://leetcode.com/problems/game-of-life/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/289.%20Game%20of%20Life.cpp).
 
+- [Word Pattern | LeetCode](https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/290.%20Word%20Pattern.cpp).
+- [Group Anagrams | LeetCode](https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/49.%20Group%20Anagrams.cpp).
+- [Contains Duplicate II | LeetCode](https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/219.%20Contains%20Duplicate%20II.cpp).
+- [Longest Consecutive Sequence | LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/128.%20Longest%20Consecutive%20Sequence.cpp).
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
