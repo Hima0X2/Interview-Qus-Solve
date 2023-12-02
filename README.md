@@ -66,6 +66,12 @@ Here is the problem and my solution of leetcode problem
 - [Merge Intervals | LeetCode](https://leetcode.com/problems/merge-intervals/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/56.%20Merge%20Intervals.cpp).
 - [Insert Interval | LeetCode](https://leetcode.com/problems/insert-interval/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/57.%20Insert%20Interval.cpp).
 - [Minimum Number of Arrows to Burst Balloons | LeetCode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp).
+- 
+- [Valid Parentheses | LeetCode](https://leetcode.com/problems/valid-parentheses/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/20.%20Valid%20Parentheses.cpp).
+- [Simplify Path| LeetCode](https://leetcode.com/problems/simplify-path/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/71.%20Simplify%20Path.cpp).
+- [Min Stack | LeetCode](https://leetcode.com/problems/min-stack/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/155.%20Min%20Stack.cpp).
+- [Evaluate Reverse Polish Notation | LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/150.%20Evaluate%20Reverse%20Polish%20Notation.cpp).
+- [Basic Calculator | LeetCode](https://leetcode.com/problems/basic-calculator/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/224.%20Basic%20Calculator.cpp).
 
 <br>
 <h3 align="left">Connect with me:</h3>
