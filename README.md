@@ -50,7 +50,7 @@ Here is the problem and my solution of leetcode problem
 -  [Minimum Size Subarray Sum | LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/209.%20Minimum%20Size%20Subarray%20Sum.cpp).
 -  [Longest Substring Without Repeating Characters | LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/3.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp).
 -  [Substring with Concatenation of All Words | LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/30.%20Substring%20with%20Concatenation%20of%20All%20Words.cpp).
-- [Minimum Window Substring | LeetCode](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/76.%20Minimum%20Window%20Substring.cpp) - [My Solution](https://leetcode.com/problems/minimum-window-substring/description/?envType=study-plan-v2&envId=top-interview-150).
+- [Minimum Window Substring | LeetCode](https://leetcode.com/problems/minimum-window-substring/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/76.%20Minimum%20Window%20Substring.cpp).
 
 <br>
 <h3 align="left">Connect with me:</h3>
