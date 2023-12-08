@@ -84,7 +84,13 @@ Here is the problem and my solution of leetcode problem
 - [Partition List| LeetCode](https://leetcode.com/problems/partition-list/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/86.%20Partition%20List.cpp).
 - [LRU Cache | LeetCode](https://leetcode.com/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/146.%20LRU%20Cache.cpp).
 
+- [Maximum Depth of Binary Tree | LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp).
+- [Same Tree | LeetCode](https://leetcode.com/problems/same-tree/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/100.%20Same%20Tree.cpp).
+- [Invert Binary Tree | LeetCode](https://leetcode.com/problems/invert-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/226.%20Invert%20Binary%20Tree.cpp).
+- [Symmetric Tree| LeetCode](https://leetcode.com/problems/symmetric-tree/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/101.%20Symmetric%20Tree.cpp).
+- [Construct Binary Tree from Preorder and Inorder Traversal | LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp).
 
+<! -- - [ | LeetCode]() - [My Solution](). --!> 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
