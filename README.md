@@ -96,7 +96,11 @@ Here is the problem and my solution of leetcode problem
 - [Binary Search Tree Iterator | LeetCode](https://leetcode.com/problems/binary-search-tree-iterator/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/173.%20Binary%20Search%20Tree%20Iterator.cpp).
 - [Count Complete Tree Nodes| LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/222.%20Count%20Complete%20Tree%20Nodes.cpp).
 - [Lowest Common Ancestor of a Binary Tree | LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp).
-  
+- [Binary Tree Right Side View | LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/199.%20Binary%20Tree%20Right%20Side%20View.cpp).
+- [Average of Levels in Binary Tree | LeetCode](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp).
+- [Binary Tree Level Order Traversal| LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp).
+- [Binary Tree Zigzag Level Order Traversal | LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp).
+- 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
