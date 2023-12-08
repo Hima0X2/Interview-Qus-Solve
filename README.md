@@ -100,7 +100,11 @@ Here is the problem and my solution of leetcode problem
 - [Average of Levels in Binary Tree | LeetCode](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp).
 - [Binary Tree Level Order Traversal| LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp).
 - [Binary Tree Zigzag Level Order Traversal | LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp).
-- 
+
+- [Minimum Absolute Difference in BST | LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://leetcode.com/problems/minimum-absolute-difference-in-bst/?envType=study-plan-v2&envId=top-interview-150).
+- [Kth Smallest Element in a BST| LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/230.%20Kth%20Smallest%20Element%20in%20a%20BST.cpp).
+- [Validate Binary Search Tree | LeetCode](https://leetcode.com/problems/validate-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/98.%20Validate%20Binary%20Search%20Tree.cpp).
+  
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
