@@ -110,12 +110,10 @@ Here is the problem and my solution of leetcode problem
 - [Course Schedule | LeetCode](https://leetcode.com/problems/course-schedule/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/207.%20Course%20Schedule.cpp).
 - [Course Schedule II | LeetCode](https://leetcode.com/problems/course-schedule-ii/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/210.%20Course%20Schedule%20II.cpp).
 - [Snakes and Ladders | LeetCode](https://leetcode.com/problems/snakes-and-ladders/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/909.%20Snakes%20and%20Ladders.cpp).
-- 
 - [Minimum Genetic Mutation| LeetCode](https://leetcode.com/problems/minimum-genetic-mutation/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/433.%20Minimum%20Genetic%20Mutation.cpp).
 - [Implement Trie (Prefix Tree) | LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/208.%20Implement%20Trie%20(Prefix%20Tree).cpp).
-- [Minimum Absolute Difference in BST | LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://leetcode.com/problems/minimum-absolute-difference-in-bst/?envType=study-plan-v2&envId=top-interview-150).
-- [Kth Smallest Element in a BST| LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/230.%20Kth%20Smallest%20Element%20in%20a%20BST.cpp).
-- [Validate Binary Search Tree | LeetCode](https://leetcode.com/problems/validate-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/98.%20Validate%20Binary%20Search%20Tree.cpp).
+- [Design Add and Search Words Data Structure | LeetCode](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.cpp).
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
