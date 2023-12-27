@@ -1,4 +1,4 @@
-# Interview_Qus_Solve
+# Interview Qus Solve
 # LeetCode Solutions
 # Top Interview Questions and Solutions
 Welcome to my LeetCode solutions repository! 
