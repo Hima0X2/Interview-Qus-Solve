@@ -121,6 +121,12 @@ Here is the problem and my solution of leetcode problem
 - [Word Search | LeetCode](https://leetcode.com/problems/word-search/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/79.%20Word%20Search.cpp).
 - [Maximum Subarray| LeetCode](https://leetcode.com/problems/maximum-subarray/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/53.%20Maximum%20Subarray.cpp). 
 - [Maximum Sum Circular Subarray| LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/918.%20Maximum%20Sum%20Circular%20Subarray.cpp).
+- [Find Minimum in Rotated Sorted Array | LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp).
+- [Find First and Last Position of Element in Sorted Array| LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp). 
+- [Search in Rotated Sorted Array | LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp).
+- 
+- [Maximum Subarray| LeetCode](https://leetcode.com/problems/maximum-subarray/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/53.%20Maximum%20Subarray.cpp). 
+- [Maximum Sum Circular Subarray| LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/918.%20Maximum%20Sum%20Circular%20Subarray.cpp).
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
