@@ -55,7 +55,6 @@ Here is the problem and my solution of leetcode problem
 -  [Rotate Image | LeetCode](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/48.%20Rotate%20Image.cpp).
 -  [Set Matrix Zeroes | LeetCode](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/73.%20Set%20Matrix%20Zeroes.cpp).
 - [Game of Life | LeetCode](https://leetcode.com/problems/game-of-life/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/289.%20Game%20of%20Life.cpp).
-
 - [Word Pattern | LeetCode](https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/290.%20Word%20Pattern.cpp).
 - [Group Anagrams | LeetCode](https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/49.%20Group%20Anagrams.cpp).
 - [Contains Duplicate II | LeetCode](https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/219.%20Contains%20Duplicate%20II.cpp).
@@ -124,9 +123,9 @@ Here is the problem and my solution of leetcode problem
 - [Find Minimum in Rotated Sorted Array | LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp).
 - [Find First and Last Position of Element in Sorted Array| LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp). 
 - [Search in Rotated Sorted Array | LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp).
+- [Find Peak Element| LeetCode](https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview-Qus-Solve/blob/main/Top%20Interview%20150/162.%20Find%20Peak%20Element.cpp). 
+- [Search a 2D Matrix| LeetCode](https://leetcode.com/problems/search-a-2d-matrix/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview-Qus-Solve/blob/main/Top%20Interview%20150/74.%20Search%20a%202D%20Matrix.cpp).
 - 
-- [Maximum Subarray| LeetCode](https://leetcode.com/problems/maximum-subarray/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/53.%20Maximum%20Subarray.cpp). 
-- [Maximum Sum Circular Subarray| LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Hima0X2/Interview_Qus_Solve/blob/main/Top%20Interview%20150/918.%20Maximum%20Sum%20Circular%20Subarray.cpp).
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
